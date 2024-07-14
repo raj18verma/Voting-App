@@ -40,7 +40,7 @@ This is a backend application for a voting system where users can vote for candi
 ## Candidates
 
 ### Get Candidates
-- `GET /candidates`: Get the list of candidates
+- `GET /Candidate`: Get the list of candidates
 
 ### Add Candidate
 - `POST /candidates`: Add a new candidate (Admin only)
@@ -54,7 +54,7 @@ This is a backend application for a voting system where users can vote for candi
 ## Voting
 
 ### Get Vote Count
-- `GET /candidates/vote/count`: Get the count of votes for each candidate
+- `GET /candidate/vote/count`: Get the count of votes for each candidate
 
 ### Vote for Candidate
 - `POST /candidates/vote/:id`: Vote for a candidate (User only)
@@ -62,7 +62,7 @@ This is a backend application for a voting system where users can vote for candi
 ## User Profile
 
 ### Get Profile
-- `GET /users/profile`: Get user profile information
+- `GET /user/profile`: Get user profile information
 
 ### Change Password
 - `PUT /users/profile/password`: Change user password
