@@ -1,3 +1,5 @@
+![jsr2](https://github.com/raj18verma/Voting-App/blob/master/Voting%20App%20flow%20diagram.drawio.png)
+
 # Voting Application
 
 This is a backend application for a voting system where users can vote for candidates. It provides functionalities for user authentication, candidate management, and voting.
