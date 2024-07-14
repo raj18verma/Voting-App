@@ -67,4 +67,4 @@ This is a backend application for a voting system where users can vote for candi
 ### Change Password
 - `PUT /users/profile/password`: Change user password
 
-### Don't forget to check the live working demo:- (https://drive.google.com/file/d/1qGPc0fyPH0_HfmnKnxBbqRP3W4ZeI60l/view?usp=drivesdk)
+### Don't forget to check the live working demo:- https://drive.google.com/file/d/1qGPc0fyPH0_HfmnKnxBbqRP3W4ZeI60l/view?usp=drivesdk
